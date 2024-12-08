@@ -40,17 +40,22 @@
 - 📈 A growth-driven attitude with eagerness to learn new technologies.  
 
 ---
+### 📊 **GitHub & LeetCode Stats**
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-### 📊 **GitHub Stats**
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka-kanaki&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-kanaki&layout=compact&theme=radical)
+![Priyanka's LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Roboto&ext=heatmap)
 
 ---
 
-### 🧮 LeetCode Stats
-![Priyanka's LeetCode Stats](https://leetcard.jacoblin.cool/p_kanaki?theme=dark&font=Roboto&ext=heatmap)
+### 🔧 **Tools & Technologies**
+- **Programming Languages**: Java, Python, JavaScript  
+- **Databases**: Firebase, MySQL, SQLite  
+- **Frameworks**: Android SDK, AWT/Swing  
+- **Version Control**: Git, GitHub
 
+---
 
 ### 📫 **Let’s Connect**
 - [💼 LinkedIn](https://www.linkedin.com/in/priyanka-kanaki)  
