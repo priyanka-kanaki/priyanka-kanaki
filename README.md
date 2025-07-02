@@ -59,7 +59,7 @@
 
 ### 📫 **Let’s Connect**
 - [💼 LinkedIn](https://www.linkedin.com/in/priyanka-kanaki)  
-- [📧 Email:] (priyankamlkanaki@gmail.com)
+- [📧 Email:](priyankamlkanaki@gmail.com)
 
 ---
 
