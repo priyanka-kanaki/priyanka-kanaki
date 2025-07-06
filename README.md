@@ -61,8 +61,11 @@
 ---
 
 ### 📫 **Let’s Connect**
-- [💼 LinkedIn](https://www.linkedin.com/in/priyanka-kanaki)  
-- 📧 Email: priyankamlkanaki@gmail.com
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-kanaki)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankamlkanaki@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://priyanka-kanaki.github.io)
+
 
 ---
 
