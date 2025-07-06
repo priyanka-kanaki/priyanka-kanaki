@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanka-kanaki&style=flat-square&color=blue)
 
+[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://priyanka-kanaki.github.io)
+
 ---
 
 ### 🌟 **About Me**
@@ -40,6 +42,7 @@
 - 📈 A growth-driven attitude with eagerness to learn new technologies.  
 
 ---
+
 ### 📊 **GitHub & LeetCode Stats**
 ![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka-kanaki&show_icons=true&theme=radical)
 
@@ -59,7 +62,7 @@
 
 ### 📫 **Let’s Connect**
 - [💼 LinkedIn](https://www.linkedin.com/in/priyanka-kanaki)  
-- [📧 Email:](priyankamlkanaki@gmail.com)
+- 📧 Email: priyankamlkanaki@gmail.com
 
 ---
 
