@@ -7,11 +7,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 **B. Tech in Computer Science** | SVERI's College of Engineering, Pandharpur  
-- 💻 Passionate about **software development**, **AI applications**, and creating real-world solutions.  
-- 🛠️ Skilled in:  
-  - **Languages**: Java, Python, HTML, CSS, JavaScript  
-  - **Frameworks/Tools**: Android Studio, Firebase, JDBC, AWT/Swing  
+I'm a Computer Science graduate from SVERI's College of Engineering, Pandharpur. I enjoy building practical applications, exploring software development, and improving my understanding of programming and software quality.
 - 🌟 Believer in **clean code** and **continuous learning**.
 
 ---
@@ -35,14 +31,6 @@
 
 ---
 
-### 🌐 **What I Can Bring to Your Team**
-- 🚀 A strong foundation in **software engineering principles**.  
-- 🧠 Creative problem-solving with **attention to detail**.  
-- 🌟 A team-oriented mindset, with experience collaborating on **projects and hackathons**.  
-- 📈 A growth-driven attitude with eagerness to learn new technologies.  
-
----
-
 ### 📊 **GitHub & LeetCode Stats**
 ![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka-kanaki&show_icons=true&theme=radical)
 
@@ -54,11 +42,18 @@
 
 ### 🔧 **Tools & Technologies**
 - **Programming Languages**: Java, Python, JavaScript  
-- **Databases**: Firebase, MySQL, SQLite  
-- **Frameworks**: Android SDK, AWT/Swing  
+- **Databases**: Firebase, MySQL,Postgresql
+- **Frameworks**: Android SDK, AWT/Swing
+- **Testing**: Manual Testing, API Testing, Selenium WebDriver (learning and practice)  
 - **Version Control**: Git, GitHub
 
 ---
+
+### 📚 **Currently Learning**
+- Core Java, OOP, collections, and data structures
+- SQL queries, joins, and database concepts
+- API testing with Postman
+- Selenium WebDriver and automated testing fundamentals
 
 ### 📫 **Let’s Connect**
 ### 🌐 Connect with Me
